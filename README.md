@@ -1,3 +1,3 @@
 # tchat
 
-Network with educators around the world 
+Network with educators around the world.
